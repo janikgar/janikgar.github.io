@@ -3,9 +3,14 @@
   - home
   - themes
   - customization
+  - privacy-commercial
 
 - title: Examples
   docs:
   - cheatsheet
   - font-awesome
   - bootstrap
+
+- title: Projects
+  docs:
+  - norta-tracker
