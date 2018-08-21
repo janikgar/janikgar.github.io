@@ -1,6 +1,6 @@
 ---
-title: Privacy Policy
-permalink: /docs/privacy-commercial
+title: Privacy Policy (commercial)
+permalink: /docs/privacy-commercial/
 ---
 
 Jacob Garcia built the apps referenced to this page as Commercial apps. This SERVICE is provided by Jacob Garcia and is intended for use as is.

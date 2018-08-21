@@ -1,6 +1,6 @@
 # Site settings
 title: Jacob Garcia's Portfolio
-email: janikgar@pme.me
+email: janikgar@pm.me
 description: >-
   Jekyll Template for Project Websites
   providing documentation and blog post pages.
@@ -29,7 +29,7 @@ exclude:
   - .idea/
   - .gitignore
   - README.md
-timezone: America/Chicago
+timezone: Europe/Berlin
 defaults:
 - scope:
     path: _posts
