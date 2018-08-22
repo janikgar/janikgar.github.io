@@ -36,14 +36,14 @@ defaults:
     type: posts
   values:
     layout: post
-    sectionid: blog
+    sectionid: projects
 
 - scope:
     path: _docs
     type: docs
   values:
     layout: docs
-    sectionid: docs
+    sectionid: pages
     seo:
       type: "WebPage"
 
