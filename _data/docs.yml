@@ -1,4 +1,7 @@
-- title: Projects
+- title: About
   docs:
-  - norta-tracker
+  - about-me
+
+- title: Client Information
+  docs:
   - privacy-commercial
