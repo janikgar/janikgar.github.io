@@ -23,6 +23,9 @@ layout: default
                 {% if page.github %}
                     <p><a href={{page.github}}><em>See on Github <span class="fa fa-github"></span></em></a></p>
                 {% endif %}
+                {% if page.live %}
+                    <p><a href={{page.live}}><em>Test it live <span class="fa fa-external-link"></span></em></a></p>
+                <% endif %>
                 <div  id="markdown-content-container">{{ content }}</div>
                 <hr>
                 <ul class="pager">
