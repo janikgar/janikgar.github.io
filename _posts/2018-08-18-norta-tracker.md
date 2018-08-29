@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /projects/norta-tracker
 title:  "NORTA Tracker"
 date:   2018-08-18 09:00 -0500
 author: Jacob

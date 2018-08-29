@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /projects/fair-weather
 title:  "Fair Weather"
 date:   2018-08-16 09:00 -0500
 author: Jacob
