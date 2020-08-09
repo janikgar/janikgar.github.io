@@ -2,7 +2,7 @@
 title: J. Nick Enterprises
 email: janikgar@pm.me
 description: >-
-  Jacob Garcia's portfolio of full-stack, front-end, and related web development projects
+  Jacob Garcia's portfolio of full-stack, front-end, and DevOps projects
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: https://janikgar.github.io/ # the base hostname & protocol for your site
@@ -16,7 +16,7 @@ bootwatch: lumen
 # Build settings
 markdown: kramdown
 highlighter: rouge
-gems:
+plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-seo-tag
