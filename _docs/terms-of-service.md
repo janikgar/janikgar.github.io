@@ -1,4 +1,7 @@
-
+---
+title: Terms of Service
+permalink: /docs/terms-of-service/
+---
 # Terms and Conditions
 
 Last updated: March 22, 2022
