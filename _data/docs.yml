@@ -2,6 +2,10 @@
   docs:
   - about-me
 
-- title: Client Information
+- title: Privacy Policy
   docs:
   - privacy-commercial
+
+- title: Terms of Service
+  docs:
+  - terms-of-service
