@@ -1,0 +1,12 @@
+[submodule "hyde"]
+	path = hyde
+	url = https://github.com/spf13/hyde
+[submodule "themes/hyde"]
+	path = themes/hyde
+	url = https://github.com/spf13/hyde
+[submodule "content/posts/themes/goa"]
+	path = content/posts/themes/goa
+	url = https://github.com/shenoydotme/hugo-goa
+[submodule "themes/goa"]
+	path = themes/goa
+	url = https://github.com/shenoydotme/hugo-goa
