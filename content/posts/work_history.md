@@ -1,9 +1,9 @@
 +++
 title = 'Work History'
-date = 2025-02-22T13:40:19-08:00
-draft = true
+date = 2025-08-28T21:35:00-07:00
+draft = false
 +++
-## Staff Site Reliability Engineer - Okta
+## Staff Site Reliability Engineer
 *September 2021 - present*
 - Architected monthly vulnerability remediation automation for microservices platform (allowing us to meet new SLA For FedRAMP High environments and saving ~$50,000 / month in cloud costs)
 - Technical lead for project to move critical cloud instance metadata service internal from previous EC2 Classic environment (closing years-old POAMs for meeting FedRAMP Moderate SLAs)
