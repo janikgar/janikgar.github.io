@@ -5,7 +5,6 @@ theme = 'goa'
 
 [Menus]
   main = [
-    {Name = "Resume (PDF)", URL = "https://drive.google.com/file/d/1jwbOmObMxMmJYJr5X0nyuAcRydEBTEY1/view?usp=sharing"},
     {Name = "About Jacob", URL = "/posts/about"},
     {Name = "Work History", URL = "/posts/work_history"},
   ]
@@ -14,7 +13,7 @@ theme = 'goa'
   author = "Jacob Garcia"
   authorimage = "headshot.jpg"
   intro = "Specialist in Cloud-Native Engineering and Operations"
-  description = "SRE at [Okta](https://okta.com); previously [Coupa](https://coupa.com) and [Code Willing](https://codewilling.com)"
+  description = "Site Reliability Engineer; previously [Coupa](https://coupa.com) and [Code Willing](https://codewilling.com)"
 
   [params.meta]
   description = "Jacob Garcia - Site Reliability Engineer"
