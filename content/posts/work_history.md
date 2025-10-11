@@ -12,7 +12,7 @@ draft = false
 - Revamped artifact build and promotion for Ruby Gems and Go-based Lambdas
 
 ## Senior Software Infrastructure Engineer - Coupa (formerly Yapta)
-*Novemeber 2021 - Sepetember 2021*
+*Novemeber 2019 - Sepetember 2021*
 - Monitor and support web application monolith (EC2 instances running Python and Java) and containerized microservices (EKS and EC2 Kubernetes instances running Python, Java, and Go)
 - Support and contribute to in-house Kubernetes/load balancer/VM platforms
 
