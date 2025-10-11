@@ -13,10 +13,10 @@ theme = 'goa'
   author = "Jacob Garcia"
   authorimage = "headshot.jpg"
   intro = "Specialist in Cloud-Native Engineering and Operations"
-  description = "Site Reliability Engineer; previously [Coupa](https://coupa.com) and [Code Willing](https://codewilling.com)"
+  description = "Software Infrastructure Engineer; previously [Coupa](https://coupa.com) and [Code Willing](https://codewilling.com)"
 
   [params.meta]
-  description = "Jacob Garcia - Site Reliability Engineer"
+  description = "Jacob Garcia - Software Infrastructure Engineer"
 
   [params.social]
   github = "janikgar"
